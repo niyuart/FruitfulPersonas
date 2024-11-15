@@ -13,15 +13,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       F: {
-        text: "Getting hands-on with home projects or trying out new hobbies.",
+        text: "Getting hands-on with home projects or trying out new hobbies",
         scores: [results.Apple, results.Apple, results.Strawberry],
       },
       T: {
-        text: "Relaxing with a good book or movie, or exploring interesting topics.",
+        text: "Relaxing with a good book or movie, or exploring interesting topics",
         scores: [results.Pear, results.Peach, results.Cherry],
       },
       S: {
-        text: "Spending time socializing with friends and family.",
+        text: "Spending time socializing with friends and family",
         scores: [results.Cherry, results.Cherry, results.Peach],
       },
     },
@@ -31,15 +31,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       J: {
-        text: "Open expressions of love and compliments.",
+        text: "Open expressions of love and compliments",
         scores: [results.Peach, results.Peach, results.Cherry, results.Apple],
       },
       P: {
-        text: "Support for my ambitions and goals.",
+        text: "Support for my ambitions and goals",
         scores: [results.Orange, results.Orange, results.Strawberry, results.Pear],
       },
       S: {
-        text: "Thoughtful gestures and small acts of kindness.",
+        text: "Thoughtful gestures and small acts of kindness",
         scores: [results.Apple, results.Strawberry, results.Cherry],
       },
     },
@@ -49,15 +49,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       S: {
-        text: " Planning special activities or surprises for them.",
+        text: " Planning special activities or surprises for them",
         scores: [results.Cherry, results.Orange, results.Strawberry],
       },
       N: {
-        text: "Offering genuine compliments and encouragement.",
+        text: "Offering genuine compliments and encouragement",
         scores: [results.Apple, results.Peach, results.Pear, results.Peach],
       },
       T: {
-        text: "Spending quality time and being present together.",
+        text: "Spending quality time and being present together",
         scores: [results.Pear, results.Pear, results.Strawberry, results.Cherry],
       },
     },
@@ -67,15 +67,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       F: {
-        text: "Organizing a fun outing with friends or family.",
+        text: "Organizing a fun outing with friends or family",
         scores: [results.Cherry, results.Orange, results.Peach],
       },
       T: {
-        text: "Keeping it intimate with close family and friends.",
+        text: "Keeping it intimate with close family and friends",
         scores: [results.Apple, results.Strawberry, results.Pear],
       },
       S: {
-        text: "Doing something unique and memorable.",
+        text: "Doing something unique and memorable",
         scores: [results.Peach, results.Orange, results.Apple],
       },
     },
@@ -85,15 +85,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       P: {
-        text: "Tackle issues head-on and find a compromise.",
+        text: "Tackle issues head-on and find a compromise",
         scores: [results.Apple, results.Orange, results.Orange, results.Peach],
       },
       J: {
-        text: "Seeking a peaceful resolution to maintain harmony.",
+        text: "Seeking a peaceful resolution to maintain harmony",
         scores: [results.Cherry, results.Strawberry, results.Strawberry],
       },
       S: {
-        text: "You avoid conflict and let things cool down first.",
+        text: "You avoid conflict and let things cool down first",
         scores: [results.Apple, results.Strawberry, results.Pear, results.Pear],
       },
     },
@@ -104,15 +104,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       I: {
-        text: "Thoughtful gestures or small gifts to show they care.",
+        text: "Thoughtful gestures or small gifts to show they care",
         scores: [results.Strawberry, results.Strawberry, results.Orange],
       },
       E: {
-        text: "Having someone there to cheer you up and spend time with.",
+        text: "Having someone there to cheer you up and spend time with",
         scores: [results.Cherry, results.Cherry, results.Pear, results.Peach],
       },
       T: {
-        text: "Giving space to relax and recharge.",
+        text: "Giving space to relax and recharge",
         scores: [results.Pear, results.Strawberry, results.Apple],
       },
     },
@@ -122,7 +122,7 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       S: {
-        text: "A hands-on workspace where you can dive into projects.",
+        text: "A hands-on workspace where you can dive into projects",
         scores: [results.Apple, results.Strawberry, results.Apple],
       },
       N: {
@@ -130,7 +130,7 @@ const questions = [
         scores: [results.Cherry, results.Pear, results.Peach, results.Peach],
       },
       T: {
-        text: "A collaborative setting where teamwork is key.",
+        text: "A collaborative setting where teamwork is key",
         scores: [results.Cherry, results.Orange, results.Peach],
       },
     },
@@ -148,7 +148,7 @@ const questions = [
         scores: [results.Pear, results.Strawberry, results.Apple],
       },
       S: {
-        text: "Exploring a new city for cultural experiences.",
+        text: "Exploring a new city for cultural experiences",
         scores: [results.Strawberry, results.Cherry, results.Peach],
       },
     },
@@ -158,15 +158,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       F: {
-        text: "I enjoy exciting surprises that create memorable experiences!",
+        text: "I enjoy exciting surprises that create memorable experiences",
         scores: [results.Orange, results.Cherry, results.Peach],
       },
       T: {
-        text: "I prefer to know what's coming to prepare myself.",
+        text: "I prefer to know what's coming to prepare myself",
         scores: [results.Apple, results.Strawberry, results.Pear],
       },
       S: {
-        text: "I appreciate small surprises that show thoughtfulness.",
+        text: "I appreciate small surprises that show thoughtfulness",
         scores: [results.Apple, results.Strawberry, results.Cherry],
       },
     },
@@ -176,15 +176,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       S: {
-        text: "My practical skills to solve the problem directly.",
+        text: "My practical skills to solve the problem directly",
         scores: [results.Apple, results.Apple, results.Strawberry, results.Orange],
       },
       N: {
-        text: "My creativity to find unique solutions.",
+        text: "My creativity to find unique solutions",
         scores: [results.Cherry, results.Pear, results.Peach, results.Peach],
       },
       T: {
-        text: "Analyzing the situation to determine the best course of action.",
+        text: "Analyzing the situation to determine the best course of action",
         scores: [results.Pear, results.Apple, results.Peach],
       },
     },
@@ -194,15 +194,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       I: {
-        text: "Motivating everyone to share ideas and collaborate.",
+        text: "Motivating everyone to share ideas and collaborate",
         scores: [results.Cherry, results.Cherry, results.Peach],
       },
       E: {
-        text: "Doing my part and trusting others to contribute.",
+        text: "Doing my part and trusting others to contribute",
         scores: [results.Apple, results.Strawberry, results.Strawberry, results.Pear],
       },
       S: {
-        text: "Taking charge to lead the group toward the goal.",
+        text: "Taking charge to lead the group toward the goal",
         scores: [results.Orange, results.Orange, results.Apple, results.Peach],
       },
     },
