@@ -184,7 +184,7 @@ const questions = [
         scores: [results.Cherry, results.Pear, results.Peach, results.Peach],
       },
       T: {
-        text: "AMy ability to analyze and plan the best approach",
+        text: "My ability to analyze and plan the best approach",
         scores: [results.Pear, results.Apple, results.Peach],
       },
     },
