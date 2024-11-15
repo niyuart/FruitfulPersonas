@@ -1,4 +1,4 @@
-While Fruitful Personas is inspired by CakeResume, Enneagrams, and the 5 Love Languages, the quiz format was based on the code from CosmosPersonas! I was granted permission to modify with the help of a friend, Alex Tomjack, and use it in my own project since I am a designer, not a coder, so huge thank you to I-see Warisa Jaidee for letting me use their code to create my own quiz.
+While Fruitful Personas is inspired by CakeResume, Enneagrams, and the 5 Love Languages, the quiz format was based on the code from CosmosPersonas! I was granted permission to modify with the help of a friend, Alex Tomjack, and use it in my own project since I am a designer, not a coder, so huge thank you to I-see Warisa Jaidee for letting me adapt and modify their base code to create my own quiz.
 
 Their statement is as follows:
 
