@@ -58,7 +58,7 @@ const questions = [
       },
       T: {
         text: "By spending quality time and being present together",
-        scores: [results.Pear, results.Pear, results.Strawberry, results.Cherry],
+        scores: [results.Pear, results.Strawberry, results.Cherry],
       },
     },
   },
@@ -109,7 +109,7 @@ const questions = [
       },
       E: {
         text: "Having someone there to cheer you up and spend time with",
-        scores: [results.Cherry, results.Cherry, results.Pear, results.Peach],
+        scores: [results.Cherry, results.Pear, results.Peach],
       },
       T: {
         text: "Giving space to relax and recharge on my own",
