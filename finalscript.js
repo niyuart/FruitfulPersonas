@@ -10,7 +10,7 @@ const results = {
 const questions = [
   {
     question: "1. How do you prefer to spend your weekends?",
-    image: "images/background.webp",
+    image: "Images/background.webp",
     answers: {
       F: {
         text: "Getting hands-on with home projects or trying out new hobbies.",
@@ -28,7 +28,7 @@ const questions = [
   },
   {
     question: "2. What makes you feel most appreciated in a relationship?",
-    image: "images/background.webp",
+    image: "Images/background.webp",
     answers: {
       J: {
         text: "Open expressions of love and compliments.",
@@ -46,7 +46,7 @@ const questions = [
   },
   {
     question: "3. How do you typically express love to someone?",
-    image: "images/background.webp",
+    image: "Images/background.webp",
     answers: {
       S: {
         text: " Planning special activities or surprises for them.",
@@ -64,7 +64,7 @@ const questions = [
   },
   {
     question: "4. What is your preferred way to celebrate a special occasion?",
-    image: "images/background.webp",
+    image: "Images/background.webp",
     answers: {
       F: {
         text: "Organizing a fun outing with friends or family.",
@@ -82,7 +82,7 @@ const questions = [
   },
   {
     question: "5. How do you handle disagreements with others?",
-    image: "images/background.webp",
+    image: "Images/background.webp",
     answers: {
       P: {
         text: "Tackle issues head-on and find a compromise.",
@@ -101,7 +101,7 @@ const questions = [
   {
     question:
       "6. When you're feeling low, what kind of support do you appreciate most?",
-    image: "images/background.webp",
+    image: "Images/background.webp",
     answers: {
       I: {
         text: "Thoughtful gestures or small gifts to show they care.",
@@ -119,7 +119,7 @@ const questions = [
   },
   {
     question: "7. What type of work environment do you find most appealing?",
-    image: "images/background.webp",
+    image: "Images/background.webp",
     answers: {
       S: {
         text: "A hands-on workspace where you can dive into projects.",
@@ -137,7 +137,7 @@ const questions = [
   },
   {
     question: "8. What kind of vacation would you prefer?",
-    image: "images/background.webp",
+    image: "Images/background.webp",
     answers: {
       J: {
         text: "An adventurous outdoor trip full of activities",
@@ -155,7 +155,7 @@ const questions = [
   },
   {
     question: "9. What are your thoughts on surprises?",
-    image: "images/background.webp",
+    image: "Images/background.webp",
     answers: {
       F: {
         text: "I enjoy exciting surprises that create memorable experiences!",
@@ -173,7 +173,7 @@ const questions = [
   },
   {
     question: "10. When faced with a challenge, what do you rely on most?",
-    image: "images/background.webp",
+    image: "Images/background.webp",
     answers: {
       S: {
         text: "My practical skills to solve the problem directly.",
@@ -191,7 +191,7 @@ const questions = [
   },
   {
     question: "11. How do you generally approach group projects?",
-    image: "images/background.webp",
+    image: "Images/background.webp",
     answers: {
       I: {
         text: "Motivating everyone to share ideas and collaborate.",
@@ -287,7 +287,7 @@ function showResult() {
   resultTextContainer.innerHTML = `
           `;
 
-  resultImage.src = `images/fruitfulpersonas_${result}_results.jpg`;
+  resultImage.src = `Images/fruitfulpersonas_${result}_results.jpg`;
   resultImage.alt = `${result} Image`;
 
   document.getElementById("quiz").style.display = "none";
