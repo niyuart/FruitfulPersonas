@@ -13,15 +13,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       F: {
-        text: "Getting hands-on with home projects or trying out new hobbies",
+        text: "Working on home projects, crafting, or trying something new",
         scores: [results.Apple, results.Apple, results.Strawberry],
       },
       T: {
-        text: "Relaxing with a good book or movie, or exploring interesting topics",
+        text: "Relaxing with a good book, movie, or learning something interesting",
         scores: [results.Pear, results.Peach, results.Cherry],
       },
       S: {
-        text: "Spending time socializing with friends and family",
+        text: "Spending quality time with friends or family",
         scores: [results.Cherry, results.Cherry, results.Peach],
       },
     },
@@ -31,15 +31,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       J: {
-        text: "Open expressions of love and compliments",
+        text: "When someone openly shares their feelings about me",
         scores: [results.Peach, results.Peach, results.Cherry, results.Apple],
       },
       P: {
-        text: "Support for my ambitions and goals",
+        text: "When someone encourages my goals and supports my dreams",
         scores: [results.Orange, results.Orange, results.Strawberry, results.Pear],
       },
       S: {
-        text: "Thoughtful gestures and small acts of kindness",
+        text: "When someone shows care through thoughtful gestures or actions",
         scores: [results.Apple, results.Strawberry, results.Cherry],
       },
     },
@@ -49,15 +49,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       S: {
-        text: " Planning special activities or surprises for them",
+        text: "By planning special surprises or experiences for them",
         scores: [results.Cherry, results.Orange, results.Strawberry],
       },
       N: {
-        text: "Offering genuine compliments and encouragement",
+        text: "By giving compliments or encouraging words",
         scores: [results.Apple, results.Peach, results.Pear, results.Peach],
       },
       T: {
-        text: "Spending quality time and being present together",
+        text: "By spending quality time and being present together",
         scores: [results.Pear, results.Pear, results.Strawberry, results.Cherry],
       },
     },
@@ -67,11 +67,11 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       F: {
-        text: "Organizing a fun outing with friends or family",
+        text: "Organizing a fun, eventful outing with friends or family",
         scores: [results.Cherry, results.Orange, results.Peach],
       },
       T: {
-        text: "Keeping it intimate with close family and friends",
+        text: "Keeping it low-key and intimate with loved ones",
         scores: [results.Apple, results.Strawberry, results.Pear],
       },
       S: {
@@ -85,15 +85,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       P: {
-        text: "Tackle issues head-on and find a compromise",
+        text: "Facing the issue head-on and working together to solve it",
         scores: [results.Apple, results.Orange, results.Orange, results.Peach],
       },
       J: {
-        text: "Seeking a peaceful resolution to maintain harmony",
+        text: "Focusing on keeping the peace and finding middle ground",
         scores: [results.Cherry, results.Strawberry, results.Strawberry],
       },
       S: {
-        text: "You avoid conflict and let things cool down first",
+        text: "Taking a step back to let things settle before addressing it",
         scores: [results.Apple, results.Strawberry, results.Pear, results.Pear],
       },
     },
@@ -104,7 +104,7 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       I: {
-        text: "Thoughtful gestures or small gifts to show they care",
+        text: "Thoughtful gestures or small gifts that show they care",
         scores: [results.Strawberry, results.Strawberry, results.Orange],
       },
       E: {
@@ -112,7 +112,7 @@ const questions = [
         scores: [results.Cherry, results.Cherry, results.Pear, results.Peach],
       },
       T: {
-        text: "Giving space to relax and recharge",
+        text: "Giving space to relax and recharge on my own",
         scores: [results.Pear, results.Strawberry, results.Apple],
       },
     },
@@ -122,15 +122,15 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       S: {
-        text: "A hands-on workspace where you can dive into projects",
+        text: "A hands-on space where I can focus on getting things done",
         scores: [results.Apple, results.Strawberry, results.Apple],
       },
       N: {
-        text: "A creative atmosphere for brainstorming and innovation",
+        text: "A creative setting where new ideas and collaboration flow",
         scores: [results.Cherry, results.Pear, results.Peach, results.Peach],
       },
       T: {
-        text: "A collaborative setting where teamwork is key",
+        text: "A team-oriented environment where everyone works together",
         scores: [results.Cherry, results.Orange, results.Peach],
       },
     },
@@ -148,7 +148,7 @@ const questions = [
         scores: [results.Pear, results.Strawberry, results.Apple],
       },
       S: {
-        text: "Exploring a new city for cultural experiences",
+        text: "A trip to explore a new city and experience the culture",
         scores: [results.Strawberry, results.Cherry, results.Peach],
       },
     },
@@ -176,7 +176,7 @@ const questions = [
     image: "Images/background.webp",
     answers: {
       S: {
-        text: "My practical skills to solve the problem directly",
+        text: "My practical skills to figure things out",
         scores: [results.Apple, results.Apple, results.Strawberry, results.Orange],
       },
       N: {
@@ -184,7 +184,7 @@ const questions = [
         scores: [results.Cherry, results.Pear, results.Peach, results.Peach],
       },
       T: {
-        text: "Analyzing the situation to determine the best course of action",
+        text: "AMy ability to analyze and plan the best approach",
         scores: [results.Pear, results.Apple, results.Peach],
       },
     },
@@ -198,7 +198,7 @@ const questions = [
         scores: [results.Cherry, results.Cherry, results.Peach],
       },
       E: {
-        text: "Doing my part and trusting others to contribute",
+        text: "Doing my part and trusting others to do theirs",
         scores: [results.Apple, results.Strawberry, results.Strawberry, results.Pear],
       },
       S: {
