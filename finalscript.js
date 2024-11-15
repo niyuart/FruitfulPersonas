@@ -287,7 +287,7 @@ function showResult() {
   resultTextContainer.innerHTML = `
           `;
 
-  resultImage.src = `Images/fruitfulpersonas_${result}_results.jpg`;
+  resultImage.src = `Images/FruitfulPersonas_${result}_Results.jpg`;
   resultImage.alt = `${result} Image`;
 
   document.getElementById("quiz").style.display = "none";
