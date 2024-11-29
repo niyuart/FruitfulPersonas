@@ -267,7 +267,6 @@ function handleAnswer(event) {
   } else {
     showResult();
   }
-  e.currentTarget.blur();
 }
 
 function showResult() {

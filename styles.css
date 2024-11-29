@@ -141,10 +141,12 @@ p2{
     align-self: center;
 }
 
-.large-rectangular:hover {
-    background-image: url("Images/hover.jpg");
-    background-size: 150%;
-    color: #ff2894;
+@media (hover:hover) {
+    .large-rectangular:hover {
+        background-image: url("Images/hover.jpg");
+        background-size: 150%;
+        color: #ff2894;
+    }    
 }
 
 
