@@ -99,8 +99,7 @@ const questions = [
     },
   },
   {
-    question:
-      "6. When you're feeling low, what kind of support do you appreciate most?",
+    question: "6. When you're feeling low, what kind of support do you appreciate most?",
     image: "Images/background.webp",
     answers: {
       I: {
@@ -217,9 +216,7 @@ function displayQuestion() {
   if (question) {
     let html = `<p>${question.question}</p>`;
     if (question.image) {
-      html += `<img src="${question.image}" alt="Question ${
-        currentQuestion + 1
-      }">`;
+      html += `<img src="${question.image}" alt="Question ${currentQuestion + 1}">`;
     }
     for (const option in question.answers) {
       html += `<button class="large-rectangular" value="${option}" id="${option}">${question.answers[option].text}</button>`;
@@ -254,9 +251,7 @@ function handleAnswer(event) {
     return Object.keys(results).find((key) => results[key] === score);
   });
 
-  const category = Object.keys(results).find(
-    (key) => results[key] === answer.scores
-  );
+  const category = Object.keys(results).find((key) => results[key] === answer.scores);
 
   for (const category of categories) {
     if (!userAnswers[category]) {
@@ -272,6 +267,7 @@ function handleAnswer(event) {
   } else {
     showResult();
   }
+  e.currentTarget.blur();
 }
 
 function showResult() {
@@ -280,9 +276,7 @@ function showResult() {
   const resultImage = document.getElementById("result-image");
   const topLetters = {};
 
-  const result = Object.keys(userAnswers).reduce((a, b) =>
-    userAnswers[a] > userAnswers[b] ? a : b
-  );
+  const result = Object.keys(userAnswers).reduce((a, b) => (userAnswers[a] > userAnswers[b] ? a : b));
 
   resultTextContainer.innerHTML = `
           `;
@@ -303,8 +297,6 @@ function restartQuiz() {
   displayQuestion();
 }
 
-document
-  .getElementById("restart-button")
-  .addEventListener("click", restartQuiz);
+document.getElementById("restart-button").addEventListener("click", restartQuiz);
 
 displayQuestion();
