@@ -10,7 +10,7 @@ const results = {
 const questions = [
   {
     question: "1. How do you prefer to spend your weekends?",
-    image: "Images/background.webp",
+    image: "Images/1.gif",
     answers: {
       F: {
         text: "Working on home projects, crafting, or trying something new",
@@ -28,7 +28,7 @@ const questions = [
   },
   {
     question: "2. What makes you feel most appreciated in a relationship?",
-    image: "Images/background.webp",
+    image: "Images/2.gif",
     answers: {
       J: {
         text: "When someone openly shares their feelings about me",
@@ -46,7 +46,7 @@ const questions = [
   },
   {
     question: "3. How do you typically express love to someone?",
-    image: "Images/background.webp",
+    image: "Images/3.gif",
     answers: {
       S: {
         text: "By planning special surprises or experiences for them",
@@ -64,7 +64,7 @@ const questions = [
   },
   {
     question: "4. What is your preferred way to celebrate a special occasion?",
-    image: "Images/background.webp",
+    image: "Images/4.gif",
     answers: {
       F: {
         text: "Organizing a fun, eventful outing with friends or family",
@@ -82,7 +82,7 @@ const questions = [
   },
   {
     question: "5. How do you handle disagreements with others?",
-    image: "Images/background.webp",
+    image: "Images/5.gif",
     answers: {
       P: {
         text: "Facing the issue head-on and working together to solve it",
@@ -100,7 +100,7 @@ const questions = [
   },
   {
     question: "6. When you're feeling low, what kind of support do you appreciate most?",
-    image: "Images/background.webp",
+    image: "Images/6.gif",
     answers: {
       I: {
         text: "Thoughtful gestures or small gifts that show they care",
@@ -118,7 +118,7 @@ const questions = [
   },
   {
     question: "7. What type of work environment do you find most appealing?",
-    image: "Images/background.webp",
+    image: "Images/7.gif",
     answers: {
       S: {
         text: "A hands-on space where I can focus on getting things done",
@@ -136,7 +136,7 @@ const questions = [
   },
   {
     question: "8. What kind of vacation would you prefer?",
-    image: "Images/background.webp",
+    image: "Images/8.gif",
     answers: {
       J: {
         text: "An adventurous outdoor trip full of activities",
@@ -154,7 +154,7 @@ const questions = [
   },
   {
     question: "9. What are your thoughts on surprises?",
-    image: "Images/background.webp",
+    image: "Images/9.gif",
     answers: {
       F: {
         text: "I enjoy exciting surprises that create memorable experiences",
@@ -172,7 +172,7 @@ const questions = [
   },
   {
     question: "10. When faced with a challenge, what do you rely on most?",
-    image: "Images/background.webp",
+    image: "Images/10.gif",
     answers: {
       S: {
         text: "My practical skills to figure things out",
@@ -190,7 +190,7 @@ const questions = [
   },
   {
     question: "11. How do you generally approach group projects?",
-    image: "Images/background.webp",
+    image: "Images/11.gif",
     answers: {
       I: {
         text: "Motivating everyone to share ideas and collaborate",
