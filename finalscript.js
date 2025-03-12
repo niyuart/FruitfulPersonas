@@ -18,7 +18,7 @@ const questions = [
       },
       T: {
         text: "Reading with a good book or binging a show or movie",
-        scores: [results.Pear, results.Apple, results.Peach, results.Cherry],
+        scores: [results.Pear, results.Apple, results.Strawberry, results.Strawberry],
       },
       S: {
         text: "Spending quality time with friends or family",
