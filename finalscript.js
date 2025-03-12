@@ -13,12 +13,12 @@ const questions = [
     image: "Images/1.gif",
     answers: {
       F: {
-        text: "Working on home projects, crafting, or trying something new",
+        text: "Working on home projects, cooking, or crafting",
         scores: [results.Apple, results.Apple, results.Strawberry],
       },
       T: {
-        text: "Relaxing with a good book, movie, or learning something interesting",
-        scores: [results.Pear, results.Peach, results.Cherry],
+        text: "Reading with a good book or binging a show or movie",
+        scores: [results.Pear, results.Apple, results.Peach, results.Cherry],
       },
       S: {
         text: "Spending quality time with friends or family",
@@ -31,7 +31,7 @@ const questions = [
     image: "Images/2.gif",
     answers: {
       J: {
-        text: "When someone openly shares their feelings about me",
+        text: "When someone shares their feelings and verbally expresses their appreciation",
         scores: [results.Peach, results.Peach, results.Cherry, results.Apple],
       },
       P: {
@@ -39,7 +39,7 @@ const questions = [
         scores: [results.Orange, results.Orange, results.Strawberry, results.Pear],
       },
       S: {
-        text: "When someone shows care through thoughtful gestures or actions",
+        text: "When someone shows they care through thoughtful gestures or actions",
         scores: [results.Apple, results.Strawberry, results.Cherry],
       },
     },
@@ -50,7 +50,7 @@ const questions = [
     answers: {
       S: {
         text: "By planning special surprises or experiences for them",
-        scores: [results.Cherry, results.Orange, results.Strawberry],
+        scores: [results.Cherry, results.Orange, results.Strawberry,results.Apple],
       },
       N: {
         text: "By giving compliments or encouraging words",
@@ -71,11 +71,11 @@ const questions = [
         scores: [results.Cherry, results.Orange, results.Peach],
       },
       T: {
-        text: "Keeping it low-key and intimate with loved ones",
-        scores: [results.Apple, results.Strawberry, results.Pear],
+        text: "Keeping it low-key and intimate with a few loved ones",
+        scores: [results.Apple, results.Strawberry, results.Pear, results.Strawberry],
       },
       S: {
-        text: "Doing something unique and memorable",
+        text: "Planning a creative and memorable activity or experience",
         scores: [results.Peach, results.Orange, results.Apple],
       },
     },
@@ -94,7 +94,7 @@ const questions = [
       },
       S: {
         text: "Taking a step back to let things settle before addressing it",
-        scores: [results.Apple, results.Strawberry, results.Pear, results.Pear],
+        scores: [results.Apple, results.Strawberry, results.Pear],
       },
     },
   },
@@ -121,7 +121,7 @@ const questions = [
     image: "Images/7.gif",
     answers: {
       S: {
-        text: "A hands-on space where I can focus on getting things done",
+        text: "A hands-on space where I can focus on getting things done by myself",
         scores: [results.Apple, results.Strawberry, results.Apple],
       },
       N: {
@@ -130,7 +130,7 @@ const questions = [
       },
       T: {
         text: "A team-oriented environment where everyone works together",
-        scores: [results.Cherry, results.Orange, results.Peach],
+        scores: [results.Cherry, results.Orange, results.Peach, results.Strawberry],
       },
     },
   },
