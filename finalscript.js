@@ -104,7 +104,7 @@ const questions = [
     answers: {
       I: {
         text: "Thoughtful gestures or small gifts that show they care",
-        scores: [results.Strawberry, results.Pear, results.Orange],
+        scores: [results.Strawberry, results.Cherry, results.Orange],
       },
       E: {
         text: "Having someone there to cheer you up and spend time with",
@@ -162,7 +162,7 @@ const questions = [
       },
       T: {
         text: "I prefer to know what's coming to prepare myself",
-        scores: [results.Apple, results.Strawberry, results.Pear],
+        scores: [results.Apple, results.Strawberry, results.Pear, results.Pear],
       },
       S: {
         text: "I appreciate small surprises that show thoughtfulness",
