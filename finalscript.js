@@ -22,7 +22,7 @@ const questions = [
       },
       S: {
         text: "Spending quality time with friends or family",
-        scores: [results.Cherry, results.Cherry, results.Pear, results.Peach],
+        scores: [results.Cherry, results.Pear, results.Pear, results.Peach],
       },
     },
   },
@@ -36,7 +36,7 @@ const questions = [
       },
       P: {
         text: "When someone encourages my goals and supports my dreams",
-        scores: [results.Orange, results.Orange, results.Strawberry, results.Pear],
+        scores: [results.Orange, results.Orange, results.Apple, results.Pear],
       },
       S: {
         text: "When someone shows they care through thoughtful gestures or actions",
@@ -54,11 +54,11 @@ const questions = [
       },
       N: {
         text: "By giving compliments or encouraging words",
-        scores: [results.Apple, results.Peach, results.Pear, results.Peach],
+        scores: [results.Apple, results.Peach, results.Pear, results.Orange],
       },
       T: {
         text: "By spending quality time and being present together",
-        scores: [results.Pear, results.Strawberry, results.Cherry],
+        scores: [results.Pear, results.Pear, results.Strawberry, results.Cherry],
       },
     },
   },
@@ -72,7 +72,7 @@ const questions = [
       },
       T: {
         text: "Keeping it low-key and intimate with a few loved ones",
-        scores: [results.Apple, results.Strawberry, results.Pear, results.Strawberry],
+        scores: [results.Apple, results.Strawberry, results.Pear],
       },
       S: {
         text: "Planning a creative and memorable activity or experience",
@@ -94,7 +94,7 @@ const questions = [
       },
       S: {
         text: "Taking a step back to let things settle before addressing it",
-        scores: [results.Apple, results.Strawberry, results.Pear],
+        scores: [results.Apple, results.Strawberry, results.Pear, results.Pear],
       },
     },
   },
@@ -108,7 +108,7 @@ const questions = [
       },
       E: {
         text: "Having someone there to cheer you up and spend time with",
-        scores: [results.Cherry, results.Pear, results.Peach],
+        scores: [results.Cherry, results.Pear, results.Peach, results.Orange],
       },
       T: {
         text: "Giving space to relax and recharge on my own",
@@ -126,7 +126,7 @@ const questions = [
       },
       N: {
         text: "A creative setting where new ideas and collaboration flow",
-        scores: [results.Cherry, results.Pear, results.Peach, results.Peach],
+        scores: [results.Cherry, results.Pear, results.Peach],
       },
       T: {
         text: "A team-oriented environment where everyone works together",
@@ -140,7 +140,7 @@ const questions = [
     answers: {
       J: {
         text: "An adventurous outdoor trip full of activities",
-        scores: [results.Orange, results.Orange, results.Cherry, results.Peach],
+        scores: [results.Orange, results.Orange, results.Cherry],
       },
       P: {
         text: "A peaceful retreat for relaxation and rejuvenation",
@@ -194,11 +194,11 @@ const questions = [
     answers: {
       I: {
         text: "Motivating everyone to share ideas and collaborate",
-        scores: [results.Cherry, results.Cherry, results.Peach],
+        scores: [results.Cherry, results.Cherry, results.Peach, results.Orange],
       },
       E: {
         text: "Doing my part and trusting others to do theirs",
-        scores: [results.Apple, results.Strawberry, results.Strawberry, results.Pear],
+        scores: [results.Apple, results.Strawberry, results.Pear],
       },
       S: {
         text: "Taking charge to lead the group toward the goal",
