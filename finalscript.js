@@ -14,7 +14,7 @@ const questions = [
     answers: {
       F: {
         text: "Working on home projects, cooking, or crafting",
-        scores: [results.Apple, results.Apple, results.Pear, results.Strawberry],
+        scores: [results.Apple, results.Orange, results.Pear, results.Strawberry],
       },
       T: {
         text: "Reading with a good book or binging a show or movie",
@@ -32,7 +32,7 @@ const questions = [
     answers: {
       J: {
         text: "When someone shares their feelings and verbally expresses their appreciation",
-        scores: [results.Peach, results.Peach, results.Cherry, results.Apple],
+        scores: [results.Peach, results.Peach, results.Cherry, rresults.Orange],
       },
       P: {
         text: "When someone encourages my goals and supports my dreams",
