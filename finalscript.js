@@ -58,7 +58,7 @@ const questions = [
       },
       T: {
         text: "By spending quality time and being present together",
-        scores: [results.Pear, results.Pear, results.Strawberry, results.Cherry],
+        scores: [results.Pear, results.Strawberry, results.Cherry],
       },
     },
   },
