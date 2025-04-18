@@ -14,11 +14,11 @@ const questions = [
     answers: {
       F: {
         text: "Working on home projects, cooking, or crafting",
-        scores: [results.Apple, results.Apple, results.Strawberry],
+        scores: [results.Apple, results.Apple, results.Pear, results.Strawberry],
       },
       T: {
         text: "Reading with a good book or binging a show or movie",
-        scores: [results.Pear, results.Apple, results.Strawberry, results.Strawberry],
+        scores: [results.Pear, results.Apple, results.Strawberry],
       },
       S: {
         text: "Spending quality time with friends or family",
