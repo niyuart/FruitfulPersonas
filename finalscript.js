@@ -32,7 +32,7 @@ const questions = [
     answers: {
       J: {
         text: "When someone shares their feelings and verbally expresses their appreciation",
-        scores: [results.Peach, results.Peach, results.Cherry, rresults.Orange],
+        scores: [results.Peach, results.Peach, results.Cherry, results.Orange],
       },
       P: {
         text: "When someone encourages my goals and supports my dreams",
