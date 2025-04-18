@@ -40,7 +40,7 @@ const questions = [
       },
       S: {
         text: "When someone shows they care through thoughtful gestures or actions",
-        scores: [results.Apple, results.Strawberry, results.Cherry],
+        scores: [results.Apple, results.Strawberry, results.Strawberry, results.Cherry],
       },
     },
   },
@@ -122,7 +122,7 @@ const questions = [
     answers: {
       S: {
         text: "A hands-on space where I can focus on getting things done by myself",
-        scores: [results.Apple, results.Pear, results.Apple],
+        scores: [results.Apple, results.Pear, results.Apple, results.Strawberry],
       },
       N: {
         text: "A creative setting where new ideas and collaboration flow",
@@ -198,7 +198,7 @@ const questions = [
       },
       E: {
         text: "Doing my part and trusting others to do theirs",
-        scores: [results.Apple, results.Strawberry, results.Pear],
+        scores: [results.Apple, results.Strawberry, results.Strawberry, results.Pear],
       },
       S: {
         text: "Taking charge to lead the group toward the goal",
