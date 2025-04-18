@@ -122,7 +122,7 @@ const questions = [
     answers: {
       S: {
         text: "A hands-on space where I can focus on getting things done by myself",
-        scores: [results.Apple, results.Strawberry, results.Apple],
+        scores: [results.Apple, results.Pear, results.Apple],
       },
       N: {
         text: "A creative setting where new ideas and collaboration flow",
