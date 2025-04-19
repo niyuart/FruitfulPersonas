@@ -90,7 +90,7 @@ const questions = [
       },
       J: {
         text: "Focusing on keeping the peace and finding middle ground",
-        scores: [results.Cherry, results.Cherry, results.Strawberry],
+        scores: [results.Cherry, results.Pear, results.Strawberry],
       },
       S: {
         text: "Taking a step back to let things settle before addressing it",
@@ -108,7 +108,7 @@ const questions = [
       },
       E: {
         text: "Having someone there to cheer you up and spend time with",
-        scores: [results.Cherry, results.Cherry, results.Peach, results.Orange],
+        scores: [results.Cherry, results.Pear, results.Peach, results.Orange],
       },
       T: {
         text: "Giving space to relax and recharge on my own",
@@ -158,7 +158,7 @@ const questions = [
     answers: {
       F: {
         text: "I enjoy exciting surprises that create memorable experiences",
-        scores: [results.Orange, results.Cherry, results.Peach],
+        scores: [results.Orange, results.Orange, results.Peach],
       },
       T: {
         text: "I prefer to know what's coming to prepare myself",
@@ -194,7 +194,7 @@ const questions = [
     answers: {
       I: {
         text: "Motivating everyone to share ideas and collaborate",
-        scores: [results.Cherry, results.Cherry, results.Peach, results.Orange],
+        scores: [results.Cherry, results.Peach, results.Orange],
       },
       E: {
         text: "Doing my part and trusting others to do theirs",
