@@ -140,7 +140,7 @@ const questions = [
     answers: {
       J: {
         text: "An adventurous outdoor trip full of activities",
-        scores: [results.Orange, results.Orange, results.Cherry],
+        scores: [results.Orange, results.Apple, results.Cherry],
       },
       P: {
         text: "A peaceful retreat for relaxation and rejuvenation",
@@ -202,7 +202,7 @@ const questions = [
       },
       S: {
         text: "Taking charge to lead the group toward the goal",
-        scores: [results.Orange, results.Orange, results.Apple, results.Peach],
+        scores: [results.Orange, results.Apple, results.Peach],
       },
     },
   },
