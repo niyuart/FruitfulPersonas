@@ -22,7 +22,7 @@ const questions = [
       },
       S: {
         text: "Spending quality time with friends or family",
-        scores: [results.Cherry, results.Pear, results.Peach],
+        scores: [results.Cherry, results.Pear, results.Peach,results.Orange],
       },
     },
   },
@@ -36,11 +36,11 @@ const questions = [
       },
       P: {
         text: "When someone encourages my goals and supports my dreams",
-        scores: [results.Orange, results.Apple, results.Pear],
+        scores: [results.Peach, results.Apple, results.Pear],
       },
       S: {
         text: "When someone shows they care through thoughtful gestures or actions",
-        scores: [results.Apple, results.Strawberry, results.Strawberry, results.Cherry],
+        scores: [results.Apple, results.Strawberry, results.Orange, results.Cherry],
       },
     },
   },
@@ -94,7 +94,7 @@ const questions = [
       },
       S: {
         text: "Taking a step back to let things settle before addressing it",
-        scores: [results.Apple, results.Strawberry, results.Pear, results.Pear],
+        scores: [results.Apple, results.Strawberry, results.Pear],
       },
     },
   },
@@ -162,7 +162,7 @@ const questions = [
       },
       T: {
         text: "I prefer to know what's coming to prepare myself",
-        scores: [results.Apple, results.Strawberry, results.Pear, results.Pear],
+        scores: [results.Apple, results.Strawberry, results.Pear],
       },
       S: {
         text: "I appreciate small surprises that show thoughtfulness",
