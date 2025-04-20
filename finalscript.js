@@ -130,7 +130,7 @@ const questions = [
       },
       T: {
         text: "A team-oriented environment where everyone works together",
-        scores: [results.Cherry, results.Orange, results.Peach, results.Strawberry],
+        scores: [results.Cherry, results.Orange, results.Peach],
       },
     },
   },
@@ -198,7 +198,7 @@ const questions = [
       },
       E: {
         text: "Doing my part and trusting others to do theirs",
-        scores: [results.Apple, results.Strawberry, results.Strawberry, results.Pear],
+        scores: [results.Apple, results.Strawberry, results.Pear],
       },
       S: {
         text: "Taking charge to lead the group toward the goal",
