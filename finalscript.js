@@ -14,7 +14,7 @@ const questions = [
     answers: {
       F: {
         text: "Working on home projects, cooking, or crafting",
-        scores: [results.Apple, results.Orange, results.Pear, results.Strawberry],
+        scores: [results.Apple, results.Orange, results.Peach],
       },
       T: {
         text: "Reading with a good book or binging a show or movie",
