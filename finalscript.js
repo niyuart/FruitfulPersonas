@@ -22,7 +22,7 @@ const questions = [
       },
       S: {
         text: "Spending quality time with friends or family",
-        scores: [results.Cherry, results.Pear, results.Peach,results.Orange],
+        scores: [results.Cherry, results.Pear, results.Peach, results.Orange],
       },
     },
   },
