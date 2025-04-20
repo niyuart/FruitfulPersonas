@@ -14,7 +14,7 @@ const questions = [
     answers: {
       F: {
         text: "Working on home projects, cooking, or crafting",
-        scores: [results.Apple, results.Orange, results.Peach],
+        scores: [results.Apple, results.Orange, results.Peach,results.Strawberry],
       },
       T: {
         text: "Reading with a good book or binging a show or movie",
@@ -32,11 +32,11 @@ const questions = [
     answers: {
       J: {
         text: "When someone shares their feelings and verbally expresses their appreciation",
-        scores: [results.Peach, results.Peach, results.Cherry, results.Orange],
+        scores: [results.Peach, results.Cherry, results.Strawberry],
       },
       P: {
         text: "When someone encourages my goals and supports my dreams",
-        scores: [results.Peach, results.Apple, results.Pear],
+        scores: [results.Peach, results.Apple, results.Pear, results.Orange],
       },
       S: {
         text: "When someone shows they care through thoughtful gestures or actions",
@@ -122,7 +122,7 @@ const questions = [
     answers: {
       S: {
         text: "A hands-on space where I can focus on getting things done by myself",
-        scores: [results.Apple, results.Pear, results.Apple, results.Strawberry],
+        scores: [results.Apple, results.Pear, results.Strawberry],
       },
       N: {
         text: "A creative setting where new ideas and collaboration flow",
@@ -176,11 +176,11 @@ const questions = [
     answers: {
       S: {
         text: "My practical skills to figure things out",
-        scores: [results.Apple, results.Apple, results.Strawberry, results.Orange],
+        scores: [results.Apple, results.Strawberry, results.Orange],
       },
       N: {
         text: "My creativity to find unique solutions",
-        scores: [results.Cherry, results.Pear, results.Peach, results.Peach],
+        scores: [results.Cherry, results.Pear, results.Peach],
       },
       T: {
         text: "My ability to analyze and plan the best approach",
