@@ -14,7 +14,7 @@ const questions = [
     answers: {
       F: {
         text: "Working on home projects, cooking, or crafting",
-        scores: [results.Apple, results.Orange, results.Peach, results.Strawberry],
+        scores: [results.Apple, results.Peach, results.Strawberry],
       },
       T: {
         text: "Reading with a good book or binging a show or movie",
@@ -36,11 +36,11 @@ const questions = [
       },
       P: {
         text: "When someone encourages my goals and supports my dreams",
-        scores: [results.Peach, results.Apple, results.Pear, results.Orange],
+        scores: [results.Peach, results.Pear, results.Orange],
       },
       S: {
         text: "When someone shows they care through thoughtful gestures or actions",
-        scores: [results.Apple, results.Strawberry, results.Orange, results.Cherry],
+        scores: [results.Apple, results.Strawberry, results.Cherry],
       },
     },
   },
@@ -76,7 +76,7 @@ const questions = [
       },
       S: {
         text: "Planning a creative and memorable activity or experience",
-        scores: [results.Peach, results.Cherry, results.Apple, results.Strawberry],
+        scores: [results.Peach, results.Cherry, results.Strawberry],
       },
     },
   },
@@ -112,7 +112,7 @@ const questions = [
       },
       T: {
         text: "Giving space to relax and recharge on my own",
-        scores: [results.Pear, results.Strawberry, results.Apple, results.Orange],
+        scores: [results.Pear, results.Strawberry, results.Apple],
       },
     },
   },
@@ -122,7 +122,7 @@ const questions = [
     answers: {
       S: {
         text: "A hands-on space where I can focus on getting things done by myself",
-        scores: [results.Apple, results.Pear, results.Strawberry, results.Orange],
+        scores: [results.Apple, results.Pear, results.Strawberry],
       },
       N: {
         text: "A creative setting where new ideas and collaboration flow",
@@ -148,7 +148,7 @@ const questions = [
       },
       S: {
         text: "A trip to explore a new city and experience the culture",
-        scores: [results.Orange, results.Cherry, results.Peach, results.Pear],
+        scores: [results.Orange, results.Cherry, results.Peach],
       },
     },
   },
@@ -184,7 +184,7 @@ const questions = [
       },
       T: {
         text: "My ability to analyze and plan the best approach",
-        scores: [results.Pear, results.Apple, results.Peach, results.Orange],
+        scores: [results.Pear, results.Apple, results.Strawberry, results.Orange],
       },
     },
   },
