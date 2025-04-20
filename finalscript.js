@@ -18,11 +18,11 @@ const questions = [
       },
       T: {
         text: "Reading with a good book or binging a show or movie",
-        scores: [results.Pear, results.Apple, results.Strawberry],
+        scores: [results.Pear, results.Peach, results.Strawberry],
       },
       S: {
         text: "Spending quality time with friends or family",
-        scores: [results.Cherry, results.Pear, results.Peach, results.Orange],
+        scores: [results.Cherry, results.Pear, results.Orange],
       },
     },
   },
@@ -50,7 +50,7 @@ const questions = [
     answers: {
       S: {
         text: "By planning special surprises or experiences for them",
-        scores: [results.Cherry, results.Orange, results.Strawberry,results.Apple],
+        scores: [results.Cherry, results.Orange, results.Strawberry, results.Apple],
       },
       N: {
         text: "By giving compliments or encouraging words",
@@ -104,7 +104,7 @@ const questions = [
     answers: {
       I: {
         text: "Thoughtful gestures or small gifts that show they care",
-        scores: [results.Strawberry, results.Cherry, results.Orange],
+        scores: [results.Strawberry, results.Cherry, results.Apple],
       },
       E: {
         text: "Having someone there to cheer you up and spend time with",
@@ -112,7 +112,7 @@ const questions = [
       },
       T: {
         text: "Giving space to relax and recharge on my own",
-        scores: [results.Pear, results.Strawberry, results.Apple],
+        scores: [results.Pear, results.Strawberry, results.Apple, results.Orange],
       },
     },
   },
@@ -122,7 +122,7 @@ const questions = [
     answers: {
       S: {
         text: "A hands-on space where I can focus on getting things done by myself",
-        scores: [results.Apple, results.Pear, results.Strawberry],
+        scores: [results.Apple, results.Pear, results.Strawberry, results.Orange],
       },
       N: {
         text: "A creative setting where new ideas and collaboration flow",
@@ -140,7 +140,7 @@ const questions = [
     answers: {
       J: {
         text: "An adventurous outdoor trip full of activities",
-        scores: [results.Orange, results.Apple, results.Cherry],
+        scores: [results.Orange, results.Peach, results.Cherry],
       },
       P: {
         text: "A peaceful retreat for relaxation and rejuvenation",
@@ -148,7 +148,7 @@ const questions = [
       },
       S: {
         text: "A trip to explore a new city and experience the culture",
-        scores: [results.Strawberry, results.Cherry, results.Peach],
+        scores: [results.Orange, results.Cherry, results.Peach, results.Pear],
       },
     },
   },
@@ -158,7 +158,7 @@ const questions = [
     answers: {
       F: {
         text: "I enjoy exciting surprises that create memorable experiences",
-        scores: [results.Orange, results.Cherry, results.Peach],
+        scores: [results.Orange, results.Cherry, results.Peach, results.Apple],
       },
       T: {
         text: "I prefer to know what's coming to prepare myself",
@@ -166,7 +166,7 @@ const questions = [
       },
       S: {
         text: "I appreciate small surprises that show thoughtfulness",
-        scores: [results.Apple, results.Strawberry, results.Cherry],
+        scores: [results.Pear, results.Strawberry, results.Cherry],
       },
     },
   },
