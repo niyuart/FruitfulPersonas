@@ -14,7 +14,7 @@ const questions = [
     answers: {
       F: {
         text: "Working on home projects, cooking, or crafting",
-        scores: [results.Apple, results.Orange, results.Peach,results.Strawberry],
+        scores: [results.Apple, results.Orange, results.Peach, results.Strawberry],
       },
       T: {
         text: "Reading with a good book or binging a show or movie",
@@ -54,7 +54,7 @@ const questions = [
       },
       N: {
         text: "By giving compliments or encouraging words",
-        scores: [results.Apple, results.Peach, results.Pear, results.Orange],
+        scores: [results.Apple, results.Peach, results.Pear],
       },
       T: {
         text: "By spending quality time and being present together",
@@ -76,7 +76,7 @@ const questions = [
       },
       S: {
         text: "Planning a creative and memorable activity or experience",
-        scores: [results.Peach, results.Cherry, results.Apple],
+        scores: [results.Peach, results.Cherry, results.Apple, results.Strawberry],
       },
     },
   },
