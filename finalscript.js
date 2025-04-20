@@ -36,7 +36,7 @@ const questions = [
       },
       P: {
         text: "When someone encourages my goals and supports my dreams",
-        scores: [results.Orange, results.Orange, results.Apple, results.Pear],
+        scores: [results.Orange, results.Apple, results.Pear],
       },
       S: {
         text: "When someone shows they care through thoughtful gestures or actions",
@@ -76,7 +76,7 @@ const questions = [
       },
       S: {
         text: "Planning a creative and memorable activity or experience",
-        scores: [results.Peach, results.Orange, results.Cherry, results.Apple],
+        scores: [results.Peach, results.Cherry, results.Apple],
       },
     },
   },
@@ -86,7 +86,7 @@ const questions = [
     answers: {
       P: {
         text: "Facing the issue head-on and working together to solve it",
-        scores: [results.Apple, results.Orange, results.Orange, results.Peach],
+        scores: [results.Apple, results.Orange, results.Peach],
       },
       J: {
         text: "Focusing on keeping the peace and finding middle ground",
@@ -158,7 +158,7 @@ const questions = [
     answers: {
       F: {
         text: "I enjoy exciting surprises that create memorable experiences",
-        scores: [results.Orange, results.Orange, results.Peach],
+        scores: [results.Orange, results.Cherry, results.Peach],
       },
       T: {
         text: "I prefer to know what's coming to prepare myself",
