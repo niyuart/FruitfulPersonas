@@ -17,7 +17,7 @@ const questions = [
         scores: [results.Apple, results.Peach, results.Orange],
       },
       T: {
-        text: "Reading with a good book or binging a show or movie",
+        text: "Reading a good book or binging a show or movie",
         scores: [results.Pear, results.Peach, results.Strawberry],
       },
       S: {
@@ -40,7 +40,7 @@ const questions = [
       },
       S: {
         text: "When someone shows they care through thoughtful gestures or actions",
-        scores: [results.Apple, results.Pear, results.Cherry],
+        scores: [results.Apple, results.Pear, results.Strawberry],
       },
     },
   },
@@ -50,7 +50,7 @@ const questions = [
     answers: {
       S: {
         text: "By planning special surprises or experiences for them",
-        scores: [results.Cherry, results.Orange, results.Strawberry, results.Apple],
+        scores: [results.Cherry, results.Orange, results.Apple],
       },
       N: {
         text: "By giving compliments or encouraging words",
