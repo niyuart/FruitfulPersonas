@@ -125,7 +125,7 @@ const questions = [
         scores: [results.Apple, results.Pear, results.Strawberry, results.Orange],
       },
       N: {
-        text: "A creative setting where new ideas and collaboration flow",
+        text: "A creative setting where new ideas can flow freely",
         scores: [results.Cherry, results.Apple, results.Peach],
       },
       T: {
