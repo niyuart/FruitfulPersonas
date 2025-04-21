@@ -14,7 +14,7 @@ const questions = [
     answers: {
       F: {
         text: "Working on home projects, cooking, or crafting",
-        scores: [results.Apple, results.Peach, results.Strawberry],
+        scores: [results.Apple, results.Peach, results.Orange],
       },
       T: {
         text: "Reading with a good book or binging a show or movie",
@@ -22,7 +22,7 @@ const questions = [
       },
       S: {
         text: "Spending quality time with friends or family",
-        scores: [results.Cherry, results.Pear, results.Orange],
+        scores: [results.Cherry, results.Pear, results.Strawberry],
       },
     },
   },
@@ -40,7 +40,7 @@ const questions = [
       },
       S: {
         text: "When someone shows they care through thoughtful gestures or actions",
-        scores: [results.Apple, results.Strawberry, results.Cherry],
+        scores: [results.Apple, results.Pear, results.Cherry],
       },
     },
   },
@@ -76,7 +76,7 @@ const questions = [
       },
       S: {
         text: "Planning a creative and memorable activity or experience",
-        scores: [results.Peach, results.Cherry, results.Strawberry],
+        scores: [results.Peach, results.Cherry, results.Strawberry, results.Orange],
       },
     },
   },
@@ -122,11 +122,11 @@ const questions = [
     answers: {
       S: {
         text: "A hands-on space where I can focus on getting things done by myself",
-        scores: [results.Apple, results.Pear, results.Strawberry],
+        scores: [results.Apple, results.Pear, results.Strawberry, results.Orange],
       },
       N: {
         text: "A creative setting where new ideas and collaboration flow",
-        scores: [results.Cherry, results.Pear, results.Peach],
+        scores: [results.Cherry, results.Apple, results.Peach],
       },
       T: {
         text: "A team-oriented environment where everyone works together",
@@ -176,7 +176,7 @@ const questions = [
     answers: {
       S: {
         text: "My practical skills to figure things out",
-        scores: [results.Apple, results.Strawberry, results.Orange],
+        scores: [results.Apple, results.Apple, results.Strawberry, results.Orange],
       },
       N: {
         text: "My creativity to find unique solutions",
@@ -184,7 +184,7 @@ const questions = [
       },
       T: {
         text: "My ability to analyze and plan the best approach",
-        scores: [results.Pear, results.Apple, results.Strawberry, results.Orange],
+        scores: [results.Pear, results.Strawberry, results.Orange],
       },
     },
   },
