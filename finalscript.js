@@ -202,7 +202,7 @@ const questions = [
       },
       S: {
         text: "Taking charge to lead the group toward the goal",
-        scores: [results.Orange, results.Apple, results.Peach],
+        scores: [results.Orange, results.Apple, results.Peach, results.Strawberry],
       },
     },
   },
