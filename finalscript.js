@@ -22,7 +22,7 @@ const questions = [
       },
       S: {
         text: "Spending quality time with friends or family",
-        scores: [results.Cherry, results.Pear, results.Strawberry],
+        scores: [results.Cherry, results.Pear, results.Peach],
       },
     },
   },
@@ -58,7 +58,7 @@ const questions = [
       },
       T: {
         text: "By spending quality time and being present together",
-        scores: [results.Pear, results.Strawberry, results.Cherry],
+        scores: [results.Pear, results.Orange, results.Cherry],
       },
     },
   },
@@ -76,7 +76,7 @@ const questions = [
       },
       S: {
         text: "Planning a creative and memorable activity or experience",
-        scores: [results.Peach, results.Cherry, results.Strawberry, results.Orange],
+        scores: [results.Peach, results.Cherry, results.Orange],
       },
     },
   },
@@ -86,11 +86,11 @@ const questions = [
     answers: {
       P: {
         text: "Facing the issue head-on and working together to solve it",
-        scores: [results.Apple, results.Orange, results.Peach],
+        scores: [results.Apple, results.Orange, results.Strawberry],
       },
       J: {
         text: "Focusing on keeping the peace and finding middle ground",
-        scores: [results.Cherry, results.Pear, results.Strawberry],
+        scores: [results.Cherry, results.Pear, results.Peach],
       },
       S: {
         text: "Taking a step back to let things settle before addressing it",
