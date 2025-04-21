@@ -40,7 +40,7 @@ const questions = [
       },
       S: {
         text: "When someone shows they care through thoughtful gestures or actions",
-        scores: [results.Apple, results.Pear, results.Strawberry],
+        scores: [results.Apple, results.Strawberry, results.Cherry],
       },
     },
   },
@@ -72,7 +72,7 @@ const questions = [
       },
       T: {
         text: "Keeping it low-key and intimate with a few loved ones",
-        scores: [results.Apple, results.Strawberry, results.Pear],
+        scores: [results.Apple, results.Strawberry, results.Pear, results.Cherry],
       },
       S: {
         text: "Planning a creative and memorable activity or experience",
@@ -90,11 +90,11 @@ const questions = [
       },
       J: {
         text: "Focusing on keeping the peace and finding middle ground",
-        scores: [results.Cherry, results.Pear, results.Peach],
+        scores: [results.Strawberry, results.Pear, results.Peach],
       },
       S: {
         text: "Taking a step back to let things settle before addressing it",
-        scores: [results.Apple, results.Strawberry, results.Pear],
+        scores: [results.Apple, results.Pear, results.Cherry],
       },
     },
   },
