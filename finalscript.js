@@ -50,7 +50,7 @@ const questions = [
     answers: {
       S: {
         text: "By planning special surprises or experiences for them",
-        scores: [results.Cherry, results.Orange, results.Apple],
+        scores: [results.Cherry, results.Orange, results.Apple, results.Strawberry],
       },
       N: {
         text: "By giving compliments or encouraging words",
@@ -68,7 +68,7 @@ const questions = [
     answers: {
       F: {
         text: "Organizing a fun, eventful outing with friends or family",
-        scores: [results.Cherry, results.Orange, results.Peach],
+        scores: [results.Cherry, results.Orange, results.Peach, results.Strawberry],
       },
       T: {
         text: "Keeping it low-key and intimate with a few loved ones",
@@ -148,7 +148,7 @@ const questions = [
       },
       S: {
         text: "A trip to explore a new city and experience the culture",
-        scores: [results.Orange, results.Cherry, results.Peach],
+        scores: [results.Orange, results.Cherry, results.Peach, results.Apple],
       },
     },
   },
@@ -198,7 +198,7 @@ const questions = [
       },
       E: {
         text: "Doing my part and trusting others to do theirs",
-        scores: [results.Apple, results.Strawberry, results.Pear, results.Cherry],
+        scores: [results.Apple, results.Strawberry, results.Pear],
       },
       S: {
         text: "Taking charge to lead the group toward the goal",
