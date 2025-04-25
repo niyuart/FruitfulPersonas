@@ -90,7 +90,7 @@ const questions = [
       },
       J: {
         text: "Focusing on keeping the peace and finding middle ground",
-        scores: [results.Strawberry, results.Pear, results.Peach],
+        scores: [results.Strawberry, results.Pear, results.Peach, results.Cherry],
       },
       S: {
         text: "Taking a step back to let things settle before addressing it",
@@ -126,11 +126,11 @@ const questions = [
       },
       N: {
         text: "A creative setting where new ideas can flow freely",
-        scores: [results.Cherry, results.Apple, results.Peach],
+        scores: [results.Orange, results.Apple, results.Peach],
       },
       T: {
         text: "A team-oriented environment where everyone works together",
-        scores: [results.Cherry, results.Orange, results.Peach],
+        scores: [results.Cherry, results.Strawberry, results.Peach],
       },
     },
   },
@@ -198,7 +198,7 @@ const questions = [
       },
       E: {
         text: "Doing my part and trusting others to do theirs",
-        scores: [results.Apple, results.Strawberry, results.Pear],
+        scores: [results.Apple, results.Strawberry, results.Pear, results.Cherry],
       },
       S: {
         text: "Taking charge to lead the group toward the goal",
