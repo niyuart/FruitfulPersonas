@@ -22,7 +22,7 @@ const questions = [
       },
       S: {
         text: "Spending quality time with friends or family",
-        scores: [results.Cherry, results.Pear, results.Apple],
+        scores: [results.Cherry, results.Pear, results.Apple, results.Strawberry],
       },
     },
   },
@@ -36,7 +36,7 @@ const questions = [
       },
       P: {
         text: "When someone encourages my goals and supports my dreams",
-        scores: [results.Peach, results.Pear, results.Orange],
+        scores: [results.Peach, results.Pear, results.Orange, results.Apple],
       },
       S: {
         text: "When someone shows they care through thoughtful gestures or actions",
@@ -76,7 +76,7 @@ const questions = [
       },
       S: {
         text: "Planning a creative and memorable activity or experience",
-        scores: [results.Peach, results.Cherry, results.Orange],
+        scores: [results.Peach, results.Cherry, results.Orange, results.Apple],
       },
     },
   },
@@ -140,7 +140,7 @@ const questions = [
     answers: {
       J: {
         text: "An adventurous outdoor trip full of activities",
-        scores: [results.Orange, results.Peach, results.Cherry],
+        scores: [results.Orange, results.Peach, results.Cherry, results.Strawberry],
       },
       P: {
         text: "A peaceful retreat for relaxation and rejuvenation",
