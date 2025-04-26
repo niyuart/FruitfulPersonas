@@ -36,7 +36,7 @@ const questions = [
       },
       P: {
         text: "When someone encourages my goals and supports my dreams",
-        scores: [results.Peach, results.Pear, results.Orange, results.Apple],
+        scores: [results.Peach, results.Pear, results.Orange],
       },
       S: {
         text: "When someone shows they care through thoughtful gestures or actions",
@@ -50,7 +50,7 @@ const questions = [
     answers: {
       S: {
         text: "By planning special surprises or experiences for them",
-        scores: [results.Cherry, results.Apple, results.Strawberry],
+        scores: [results.Cherry, results.Apple, results.Strawberry, results.Orange],
       },
       N: {
         text: "By giving compliments or encouraging words",
@@ -90,11 +90,11 @@ const questions = [
       },
       J: {
         text: "Focusing on keeping the peace and finding middle ground",
-        scores: [results.Pear, results.Peach, results.Cherry],
+        scores: [results.Pear, results.Peach, results.Cherry, results.Orange],
       },
       S: {
         text: "Taking a step back to let things settle before addressing it",
-        scores: [results.Apple, results.Pear, results.Cherry],
+        scores: [results.Apple, results.Pear, results.Cherry, results.Strawberry],
       },
     },
   },
@@ -166,7 +166,7 @@ const questions = [
       },
       S: {
         text: "I appreciate small surprises that show thoughtfulness",
-        scores: [results.Pear, results.Peach, results.Cherry],
+        scores: [results.Apple, results.Peach, results.Cherry, results.Pear],
       },
     },
   },
@@ -176,7 +176,7 @@ const questions = [
     answers: {
       S: {
         text: "My practical skills to figure things out",
-        scores: [results.Apple, results.Apple, results.Orange],
+        scores: [results.Apple, results.Strawberry, results.Orange],
       },
       N: {
         text: "My creativity to find unique solutions",
@@ -184,7 +184,7 @@ const questions = [
       },
       T: {
         text: "My ability to analyze and plan the best approach",
-        scores: [results.Pear, results.Strawberry, results.Cherry],
+        scores: [results.Pear, results.Apple, results.Cherry],
       },
     },
   },
