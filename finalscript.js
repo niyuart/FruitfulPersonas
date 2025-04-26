@@ -50,7 +50,7 @@ const questions = [
     answers: {
       S: {
         text: "By planning special surprises or experiences for them",
-        scores: [results.Cherry, results.Orange, results.Apple, results.Strawberry],
+        scores: [results.Cherry, results.Orange, results.Strawberry],
       },
       N: {
         text: "By giving compliments or encouraging words",
@@ -76,7 +76,7 @@ const questions = [
       },
       S: {
         text: "Planning a creative and memorable activity or experience",
-        scores: [results.Peach, results.Cherry, results.Orange, results.Apple],
+        scores: [results.Peach, results.Cherry, results.Orange],
       },
     },
   },
@@ -158,7 +158,7 @@ const questions = [
     answers: {
       F: {
         text: "I enjoy exciting surprises that create memorable experiences",
-        scores: [results.Orange, results.Cherry, results.Peach, results.Apple],
+        scores: [results.Orange, results.Cherry, results.Peach],
       },
       T: {
         text: "I prefer to know what's coming to prepare myself",
@@ -176,7 +176,7 @@ const questions = [
     answers: {
       S: {
         text: "My practical skills to figure things out",
-        scores: [results.Apple, results.Apple, results.Strawberry, results.Orange],
+        scores: [results.Apple, results.Apple, results.Orange],
       },
       N: {
         text: "My creativity to find unique solutions",
@@ -198,7 +198,7 @@ const questions = [
       },
       E: {
         text: "Doing my part and trusting others to do theirs",
-        scores: [results.Apple, results.Strawberry, results.Pear, results.Cherry],
+        scores: [results.Apple, results.Pear, results.Cherry],
       },
       S: {
         text: "Taking charge to lead the group toward the goal",
