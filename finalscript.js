@@ -14,7 +14,7 @@ const questions = [
     answers: {
       F: {
         text: "Working on home projects, cooking, or crafting",
-        scores: [results.Apple, results.Peach, results.Orange],
+        scores: [results.Apple, results.Peach, results.Orange, results.Strawberry],
       },
       T: {
         text: "Reading a good book or binging a show or movie",
@@ -50,7 +50,7 @@ const questions = [
     answers: {
       S: {
         text: "By planning special surprises or experiences for them",
-        scores: [results.Cherry, results.Orange, results.Strawberry],
+        scores: [results.Cherry, results.Apple, results.Strawberry],
       },
       N: {
         text: "By giving compliments or encouraging words",
@@ -68,7 +68,7 @@ const questions = [
     answers: {
       F: {
         text: "Organizing a fun, eventful outing with friends or family",
-        scores: [results.Cherry, results.Orange, results.Peach, results.Strawberry],
+        scores: [results.Cherry, results.Orange, results.Peach],
       },
       T: {
         text: "Keeping it low-key and intimate with a few loved ones",
@@ -90,7 +90,7 @@ const questions = [
       },
       J: {
         text: "Focusing on keeping the peace and finding middle ground",
-        scores: [results.Strawberry, results.Pear, results.Peach, results.Cherry],
+        scores: [results.Pear, results.Peach, results.Cherry],
       },
       S: {
         text: "Taking a step back to let things settle before addressing it",
@@ -130,7 +130,7 @@ const questions = [
       },
       T: {
         text: "A team-oriented environment where everyone works together",
-        scores: [results.Cherry, results.Strawberry, results.Peach],
+        scores: [results.Cherry, results.Peach, results.Orange, results.Strawberry],
       },
     },
   },
@@ -148,7 +148,7 @@ const questions = [
       },
       S: {
         text: "A trip to explore a new city and experience the culture",
-        scores: [results.Cherry, results.Peach, results.Apple],
+        scores: [results.Cherry, results.Peach, results.Apple, results.Orange],
       },
     },
   },
@@ -166,7 +166,7 @@ const questions = [
       },
       S: {
         text: "I appreciate small surprises that show thoughtfulness",
-        scores: [results.Pear, results.Strawberry, results.Cherry],
+        scores: [results.Pear, results.Peach, results.Cherry],
       },
     },
   },
@@ -180,11 +180,11 @@ const questions = [
       },
       N: {
         text: "My creativity to find unique solutions",
-        scores: [results.Cherry, results.Pear, results.Peach],
+        scores: [results.Orange, results.Pear, results.Peach,],
       },
       T: {
         text: "My ability to analyze and plan the best approach",
-        scores: [results.Pear, results.Strawberry, results.Orange],
+        scores: [results.Pear, results.Strawberry, results.Cherry],
       },
     },
   },
@@ -198,7 +198,7 @@ const questions = [
       },
       E: {
         text: "Doing my part and trusting others to do theirs",
-        scores: [results.Apple, results.Pear, results.Cherry],
+        scores: [results.Apple, results.Pear, results.Cherry, results.Strawberry],
       },
       S: {
         text: "Taking charge to lead the group toward the goal",
