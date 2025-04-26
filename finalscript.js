@@ -198,7 +198,7 @@ const questions = [
       },
       E: {
         text: "Doing my part and trusting others to do theirs",
-        scores: [results.Apple, results.Pear, results.Cherry, results.Strawberry],
+        scores: [results.Apple, results.Pear, results.Strawberry],
       },
       S: {
         text: "Taking charge to lead the group toward the goal",
