@@ -90,11 +90,11 @@ const questions = [
       },
       J: {
         text: "Focusing on keeping the peace and finding middle ground",
-        scores: [results.Pear, results.Peach, results.Cherry, results.Orange],
+        scores: [results.Peach, results.Cherry, results.Orange],
       },
       S: {
         text: "Taking a step back to let things settle before addressing it",
-        scores: [results.Apple, results.Pear, results.Cherry, results.Strawberry],
+        scores: [results.Apple, results.Pear, results.Cherry],
       },
     },
   },
