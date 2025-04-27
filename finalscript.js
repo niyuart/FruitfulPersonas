@@ -90,7 +90,7 @@ const questions = [
       },
       J: {
         text: "Focusing on keeping the peace and finding middle ground",
-        scores: [results.Peach, results.Cherry, results.Orange],
+        scores: [results.Peach, results.Cherry, results.Orange, results.Pear],
       },
       S: {
         text: "Taking a step back to let things settle before addressing it",
@@ -148,7 +148,7 @@ const questions = [
       },
       S: {
         text: "A trip to explore a new city and experience the culture",
-        scores: [results.Apple, results.Peach, results.Orange],
+        scores: [results.Apple, results.Peach, results.Orange, results.Pear],
       },
     },
   },
@@ -166,7 +166,7 @@ const questions = [
       },
       S: {
         text: "I appreciate small surprises that show thoughtfulness",
-        scores: [results.Peach, results.Cherry, results.Pear],
+        scores: [results.Peach, results.Cherry, results.Strawberry],
       },
     },
   },
