@@ -130,7 +130,7 @@ const questions = [
       },
       T: {
         text: "A team-oriented environment where everyone works together",
-        scores: [results.Cherry, results.Peach, results.Orange, results.Strawberry],
+        scores: [results.Cherry, results.Peach, results.Orange],
       },
     },
   },
@@ -144,11 +144,11 @@ const questions = [
       },
       P: {
         text: "A peaceful retreat for relaxation and rejuvenation",
-        scores: [results.Pear, results.Strawberry, results.Apple],
+        scores: [results.Pear, results.Strawberry, results.Cherry],
       },
       S: {
         text: "A trip to explore a new city and experience the culture",
-        scores: [results.Cherry, results.Peach, results.Apple, results.Orange],
+        scores: [results.Apple, results.Peach, results.Orange],
       },
     },
   },
@@ -166,7 +166,7 @@ const questions = [
       },
       S: {
         text: "I appreciate small surprises that show thoughtfulness",
-        scores: [results.Apple, results.Peach, results.Cherry, results.Pear],
+        scores: [results.Peach, results.Cherry, results.Pear],
       },
     },
   },
@@ -194,11 +194,11 @@ const questions = [
     answers: {
       I: {
         text: "Motivating everyone to share ideas and collaborate",
-        scores: [results.Cherry, results.Peach, results.Orange],
+        scores: [results.Cherry, results.Peach, results.Strawberry],
       },
       E: {
         text: "Doing my part and trusting others to do theirs",
-        scores: [results.Apple, results.Pear, results.Strawberry],
+        scores: [results.Apple, results.Pear, results.Cherry],
       },
       S: {
         text: "Taking charge to lead the group toward the goal",
